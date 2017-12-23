@@ -1,0 +1,15 @@
+{
+  "Statement": [
+    {
+      "Action": [
+        "ec2:DescribeInstances",
+        "s3:*"
+      ],
+      "Effect": "Allow",
+      "Resource": [
+        "*"
+      ]
+    }
+  ],
+  "Version": "2012-10-17"
+}

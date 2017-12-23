@@ -1,0 +1,5 @@
+{
+  "elasticsearch_version": "",
+  "aws_region": "ap-southeast-1",
+  "aws_elasticsearch_ami": "ami-ad1e7dd1"
+}
